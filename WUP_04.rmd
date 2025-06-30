@@ -67,8 +67,10 @@ The P value data is a small number of 0.000236.
 
 ```{r}
 par(mar = c(3, 17, 2, 2))
-plot(TukeyHSD(model1, conf.level1 = 0.98),las=2)
+plot(TukeyHSD(model1, conf.level =0.98), las=2)
 ```
+
+Looking at the graph we have a dotted line above 0 and the only thing it doesnt cut into is between LT high school and the high school graduate.
 
 # Discussion and Conclusion
 
