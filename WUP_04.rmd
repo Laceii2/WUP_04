@@ -52,7 +52,7 @@ In the plot the LT highschool and high school is under the junior college and ba
 favstats(WORDSUM~DEGREE,data=mydata)
 ```
 
-
+According to the data, LT High School's Q3 score is lower than that of the graduate schools' Q1.
 
 ## Inferential Results
 
