@@ -75,3 +75,5 @@ Looking at the graph we have a dotted line above 0 and the only thing it doesnt 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+For this write up we learned that LT high school and highschool falls under junior college and bachelor's level schools in terms of score. The highschools third quanrtile score is lower that the first quartile which tells the difference in the performance gap. 
